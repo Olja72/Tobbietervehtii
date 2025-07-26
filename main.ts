@@ -1,0 +1,6 @@
+basic.showString("Hei, Elias!")
+TobbieII.forward()
+basic.pause(1000)
+TobbieII.stopwalk()
+TobbieII.shake_head(5)
+basic.showString("Hei, Hei Elias!")
